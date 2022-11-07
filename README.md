@@ -6,7 +6,7 @@ Setting up the environment:
 2) pip install -r requirements.txt
 3) install PyTorch with CUDA available: https://pytorch.org/
 
-To run the code there is 2 more steps:
+To run the code there are 2 more steps:
 1) Open config.py and paste your bot token in brackets
 2) Also i had an issue with openAI's code and in order to fix it you have to put executable file from ffmpeg library in the folder. (download https://drive.google.com/file/d/1yIDW3u6O7HdjDPq7Z_q62_pZMgC8jdeI/view?usp=sharing and put it in the folder)
 
